@@ -8,5 +8,7 @@
 
 ### Reference: 
 * [Using components in Angular 1.5][1]
+* [Angular-UI for bootstrap][2]
 
 [1]: https://www.youtube.com/watch?v=7eQbQN-Dzm0
+[2]: https://angular-ui.github.io/bootstrap/#
