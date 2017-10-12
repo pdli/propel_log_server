@@ -4,4 +4,4 @@
 
 * Create folder/softlink in dir */images*
 * Restart http service
-* Curl: *http://<hostname>:8081/propel/<Name of soft link>*
+* Curl: **http:<i></i>//<hostname<i></i>>:8081/propel/<soft link<i></i>>/**
