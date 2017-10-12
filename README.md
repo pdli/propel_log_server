@@ -5,3 +5,8 @@
 * Create folder/softlink in dir */images*
 * Restart http service
 * Curl: **http:<i></i>//<hostname<i></i>>:8081/propel/<soft link<i></i>>/**
+
+### Reference: 
+* [Using components in Angular 1.5][1]
+
+[1]: https://www.youtube.com/watch?v=7eQbQN-Dzm0
